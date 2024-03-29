@@ -2,7 +2,7 @@
 
 ## Step 1: Project Clone
 ```
-git clone https://github.com/Kim029/MyPortfolio (Do it in Git or CMD)
+git clone https://github.com/Kim029/MyPortfolio.git (Do it in Git or CMD)
 ```
 
 ## Step 2: Project setup
