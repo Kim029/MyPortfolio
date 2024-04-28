@@ -61,8 +61,8 @@ const LinkedinLink = 'https://www.linkedin.com/in/ravina-rachiel-j-7a317a2b5/';
             </div>
         </div>
         <div class="background-image-container">
-            <img src="https://scontent.fceb3-1.fna.fbcdn.net/v/t1.15752-9/423454983_1105417480495767_8919237847726397319_n.png?_nc_cat=103&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeFGQGlkSkWgPzk_MzsCpkj9e4g1YdaXuQ97iDVh1pe5DxIumulgHb-LpSLlxOqIfvDYfkDqSc-gIPvfoWaZNBYJ&_nc_ohc=a5JOjvDqohkAX-7dp_w&_nc_oc=AQnzh3UvgzadlpKr92ReuUfHi6OppY3vdO1MJ7doZ3dWEticPnVTXQ0FVSAu3GM8NC8&_nc_ht=scontent.fceb3-1.fna&oh=03_AdR68tPkjZZ6088bKwf9YamFOqYQN5YAmWacR6kd49VawQ&oe=660B5E4A"
-                loading="lazy" alt="Photo by Fakurian Design" class="h-full w-full object-cover object-center" />
+            <img src="https://scontent.fceb3-1.fna.fbcdn.net/v/t1.15752-9/423454983_1105417480495767_8919237847726397319_n.png?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFGQGlkSkWgPzk_MzsCpkj9e4g1YdaXuQ97iDVh1pe5DxIumulgHb-LpSLlxOqIfvDYfkDqSc-gIPvfoWaZNBYJ&_nc_ohc=Dzgd30d1UswQ7kNvgF69CPL&_nc_oc=Adh_rr4dtUIgFoiQV1T4yiaWAl-lX8VRbzzDl1vYxAidPfAjSw4dUo3AkCceaMDEeYg&_nc_ht=scontent.fceb3-1.fna&oh=03_Q7cD1QE65lN_pC0vmgS1CZs2ZvYONu6ZR6qjKkRoBwYpGxb5ZQ&oe=66556A8A"
+                loading="" alt="" class="h-full w-full object-cover object-center" />
         </div>
 
     </section>
